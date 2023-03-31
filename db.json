@@ -1,0 +1,373 @@
+{
+  "login_user": {
+    "support_id": 3,
+    "support_name": "藤本",
+    "last_login_date": "2023/03/30"
+  },
+  "mail_list": [
+    {
+      "id": 1,
+      "subject": "長方形版計算の件",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀"
+    },
+    {
+      "id": 2,
+      "subject": "水理特性計算の不具合？",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀"
+    },
+    {
+      "id": 3,
+      "subject": "水理特性計算の件",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀"
+    },
+    {
+      "id": 4,
+      "subject": "水理特性計算の件",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀"
+    },
+    {
+      "id": 5,
+      "subject": "水理特性計算の件",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀"
+    },
+    {
+      "id": 6,
+      "subject": "水理特性計算の件",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀"
+    },
+    {
+      "id": 7,
+      "subject": "水理特性計算の件",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀"
+    },
+    {
+      "id": 8,
+      "subject": "水理特性計算の件",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀"
+    },
+    {
+      "id": 9,
+      "subject": "水理特性計算の件",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀"
+    },
+    {
+      "id": 10,
+      "subject": "水理特性計算の件",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀"
+    },
+    {
+      "id": 11,
+      "subject": "水理特性計算の件",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀"
+    },
+    {
+      "id": 12,
+      "subject": "水理特性計算の件",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀"
+    },
+    {
+      "id": 13,
+      "subject": "水理特性計算の件",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀"
+    }
+  ],
+  "mail_detail": [
+    {
+      "id": 1,
+      "mail_id": 1,
+      "thread_id": 1,
+      "subject": "RE:RE:長方形版計算の件",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。来週月曜日の会議について改めてご連絡いたします。\\nすでにお伝えしておりますZoomに不具合があり、\\n申し訳ございませんが、下記のZoomをご使用ください。\\n\\n欠席の場合は、27日（月）10時までにご連絡ください。\\n        \\nよろしくお願いいたします。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀",
+      "to": "csd@mail.com",
+      "to_disp": "CSDサポート"
+    },
+    {
+      "id": 2,
+      "mail_id": 1,
+      "thread_id": 2,
+      "subject": "RE:長方形版計算の件",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。来週月曜日の会議について改めてご連絡いたします。\\nすでにお伝えしておりますZoomに不具合があり、\\n申し訳ございませんが、下記のZoomをご使用ください。\\n\\n欠席の場合は、27日（月）10時までにご連絡ください。\\n        \\nよろしくお願いいたします。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀",
+      "to": "csd@mail.com",
+      "to_disp": "CSDサポート"
+    },
+    {
+      "id": 3,
+      "mail_id": 1,
+      "thread_id": 3,
+      "subject": "長方形版計算の件",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。来週月曜日の会議について改めてご連絡いたします。\\nすでにお伝えしておりますZoomに不具合があり、\\n申し訳ございませんが、下記のZoomをご使用ください。\\n\\n欠席の場合は、27日（月）10時までにご連絡ください。\\n        \\nよろしくお願いいたします。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀",
+      "to": "csd@mail.com",
+      "to_disp": "CSDサポート"
+    },
+    {
+      "id": 4,
+      "mail_id": 2,
+      "thread_id": 1,
+      "subject": "水理特性計算の不具合？",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "body": "お世話になっております。下水道設計コンサルの藤本です。来週月曜日の会議について改めてご連絡いたします。\\nすでにお伝えしておりますZoomに不具合があり、\\n申し訳ございませんが、下記のZoomをご使用ください。\\n\\n欠席の場合は、27日（月）10時までにご連絡ください。\\n        \\nよろしくお願いいたします。",
+      "from": "y-fujimoto@mail.com",
+      "from_disp": "藤本　雄紀",
+      "to": "csd@mail.com",
+      "to_disp": "CSDサポート"
+    }
+  ],
+  "support_log": [
+    {
+      "id": 1,
+      "mail_id": 1,
+      "support_id": 1,
+      "support_name": "小山",
+      "text": "こちらの対応はどうしましょうか？",
+      "date": "2023/03/27",
+      "time": "09:30"
+    },
+    {
+      "id": 2,
+      "mail_id": 1,
+      "support_id": 2,
+      "support_name": "岡田",
+      "text": "こちらはこのように対処しましょう。〇〇～～～～",
+      "date": "2023/03/27",
+      "time": "10:30"
+    },
+    {
+      "id": 3,
+      "mail_id": 1,
+      "support_id": 3,
+      "support_name": "藤本",
+      "text": "わかりました。",
+      "date": "2023/03/27",
+      "time": "10:30"
+    },
+    {
+      "mail_id": 1,
+      "support_id": 3,
+      "support_name": "藤本",
+      "text": "返信しておきます。",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "id": 4
+    },
+    {
+      "mail_id": 1,
+      "support_id": 3,
+      "support_name": "藤本",
+      "text": "test",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "id": 5
+    },
+    {
+      "mail_id": 2,
+      "support_id": 3,
+      "support_name": "藤本",
+      "text": "test",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "id": 6
+    },
+    {
+      "mail_id": 2,
+      "support_id": 3,
+      "support_name": "藤本",
+      "text": "testest",
+      "date": "2023/03/27",
+      "time": "09:30",
+      "id": 7
+    }
+  ],
+  "question": [
+    {
+      "mail_id": 1,
+      "text": "[管の接続方法]を「管頂接合」に設定しているが管頂接合にならない。",
+      "text_fc": "[管の接続方法]を「管頂接合」に設定しているが管頂接合にならない。sss",
+      "version_id": 1,
+      "resolve_flg": true,
+      "delete_flg": 0,
+      "answer": [
+        {
+          "text": "路線の流下方向を単独で反転します。",
+          "reason": "◯◯なため。"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "mail_id": 1,
+      "text": "[路線一覧編集]の[スパン]ページに表示されている流下量、流出量、実水量が意味するものは何か。",
+      "text_fc": "[路線一覧編集]の[スパン]ページに表示されている流下量、流出量、実水量が意味するものは何か。",
+      "version_id": 1,
+      "resolve_flg": 0,
+      "delete_flg": 1,
+      "answer": [
+        {
+          "text": "路線の流下方向を単独で反転します。ｓｓｓ",
+          "reason": "◯◯なため。"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "mail_id": 1,
+      "text": "[路線一覧編集]の[スパン]ページに表示されている流下量、流出量、実水量が意味するものは何か。",
+      "text_fc": "[路線一覧編集]の[スパン]ページに表示されている流下量、流出量、実水量が意味するものは何か。",
+      "version_id": 1,
+      "resolve_flg": true,
+      "delete_flg": 0,
+      "answer": [
+        {
+          "text": "路線の流下方向を単独で反転しますｓｓｓ。",
+          "reason": "◯◯なため。"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "text": "[路線一覧編集]の[スパン]ページに表示されている流下量、流出量、実水量が意味するものは何か。",
+      "text_fc": "[路線一覧編集]の[スパン]ページに表示されている流下量、流出量、実水量が意味するものは何か。",
+      "version_id": 1,
+      "resolve_flg": false,
+      "delete_flg": 0,
+      "mail_id": 1,
+      "answer": [
+        {
+          "text": "路線の流下方向を単独で反転します。てｓｔ",
+          "reason": "◯◯なため。"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "text": "test",
+      "text_fc": "test",
+      "version_id": 1,
+      "resolve_flg": 0,
+      "delete_flg": 0,
+      "mail_id": 2,
+      "answer": [
+        {
+          "text": "test",
+          "reason": "test"
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "tag": [
+    {
+      "id": "1",
+      "name": "質問",
+      "order": 1
+    },
+    {
+      "id": "2",
+      "name": "不具合対応",
+      "order": 2
+    },
+    {
+      "id": "3",
+      "name": "クレーム",
+      "order": 3
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Civil Rapid"
+    },
+    {
+      "id": "2",
+      "name": "Rapid Draw"
+    },
+    {
+      "id": "3",
+      "name": "Pipe Rapid"
+    },
+    {
+      "id": "4",
+      "name": "Pipe Project"
+    },
+    {
+      "id": "5",
+      "name": "推進工法"
+    },
+    {
+      "id": "6",
+      "name": "小口径推進システム"
+    },
+    {
+      "id": "7",
+      "name": "管の構造計算"
+    },
+    {
+      "id": "8",
+      "name": "仮設土留工の計算"
+    }
+  ]
+}
