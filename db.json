@@ -85,42 +85,6 @@
       "body": "お世話になっております。下水道設計コンサルの藤本です。",
       "from": "y-fujimoto@mail.com",
       "from_disp": "藤本　雄紀"
-    },
-    {
-      "id": 10,
-      "subject": "水理特性計算の件",
-      "date": "2023/03/27",
-      "time": "09:30",
-      "body": "お世話になっております。下水道設計コンサルの藤本です。",
-      "from": "y-fujimoto@mail.com",
-      "from_disp": "藤本　雄紀"
-    },
-    {
-      "id": 11,
-      "subject": "水理特性計算の件",
-      "date": "2023/03/27",
-      "time": "09:30",
-      "body": "お世話になっております。下水道設計コンサルの藤本です。",
-      "from": "y-fujimoto@mail.com",
-      "from_disp": "藤本　雄紀"
-    },
-    {
-      "id": 12,
-      "subject": "水理特性計算の件",
-      "date": "2023/03/27",
-      "time": "09:30",
-      "body": "お世話になっております。下水道設計コンサルの藤本です。",
-      "from": "y-fujimoto@mail.com",
-      "from_disp": "藤本　雄紀"
-    },
-    {
-      "id": 13,
-      "subject": "水理特性計算の件",
-      "date": "2023/03/27",
-      "time": "09:30",
-      "body": "お世話になっております。下水道設計コンサルの藤本です。",
-      "from": "y-fujimoto@mail.com",
-      "from_disp": "藤本　雄紀"
     }
   ],
   "mail_detail": [
@@ -302,38 +266,6 @@
         }
       ],
       "id": 4
-    },
-    {
-      "text": "test",
-      "text_fc": "test",
-      "version_id": 1,
-      "resolve_flg": 0,
-      "delete_flg": 0,
-      "mail_id": 2,
-      "answer": [
-        {
-          "text": "test",
-          "reason": "test"
-        }
-      ],
-      "id": 5
-    }
-  ],
-  "tag": [
-    {
-      "id": "1",
-      "name": "質問",
-      "order": 1
-    },
-    {
-      "id": "2",
-      "name": "不具合対応",
-      "order": 2
-    },
-    {
-      "id": "3",
-      "name": "クレーム",
-      "order": 3
     }
   ],
   "products": [
@@ -352,22 +284,6 @@
     {
       "id": "4",
       "name": "Pipe Project"
-    },
-    {
-      "id": "5",
-      "name": "推進工法"
-    },
-    {
-      "id": "6",
-      "name": "小口径推進システム"
-    },
-    {
-      "id": "7",
-      "name": "管の構造計算"
-    },
-    {
-      "id": "8",
-      "name": "仮設土留工の計算"
     }
   ]
 }
